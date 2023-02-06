@@ -1,0 +1,2 @@
+class BabyListsController < ApplicationController
+end
