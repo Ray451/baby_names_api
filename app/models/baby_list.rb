@@ -1,0 +1,2 @@
+class BabyList < ApplicationRecord
+end
